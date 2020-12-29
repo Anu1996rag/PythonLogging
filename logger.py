@@ -1,3 +1,6 @@
+# this file creates new log files in the particular folders created by the 
+# createFolder file and generates separate log files for separate programs
+
 import os,inspect
 import logging,logging.config
 from createFolder import createFolder

@@ -1,3 +1,5 @@
+# test file which creates log files with the help of configuration file 
+
 import logging.config,os
 
 def createLogFile(name):

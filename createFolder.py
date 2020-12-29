@@ -1,3 +1,6 @@
+# this file create new folder everyday in the format "FileName_dd_mm_yyyy" and returns the complete path
+# of the folder 
+
 import os,time
 
 # folder name format
